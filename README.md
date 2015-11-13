@@ -1,5 +1,5 @@
 # To Download this repo do the following
-git init
+git init <br>
 git pull https://github.com/mehrashiv/django.git
 
 #Post change back to repo
